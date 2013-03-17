@@ -5,6 +5,8 @@ This is a collection of various brainfuck interpreters written in Java. They use
 methods and technologies and their execution speed varies. The FastASMBrainfuckInterpreter is
 the fastest Java brainfuck interpreter I know of (and twice as fast as [Bff4](http://mazonka.com/brainf/)).
 
+Note that none of these implementations supports the , operator.
+
 Benchmark
 -----------------------------
 
